@@ -1,1 +1,1 @@
-# Machine-Learning-WEb-Application
+# Machine-Learning-Web-Application
